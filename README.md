@@ -7,7 +7,6 @@
 
 - Not Implemented:
   - Drop
-  - Input Matrix
 
 <br><br>
 
@@ -25,7 +24,7 @@
 
 - Bugs
   - Operator precidence
-  - Incorrect Inputs
+
 
 <br><br>
 
@@ -33,12 +32,7 @@
 
 - Very hard to debug
 - Watch for Shunting and RPN
-
-# **output**
-<pre>
-<br/><br/><br/><br/>
-</pre>
-
+- Toggle the try catch in order to switch from int to string cmp
 
 <br/><br/>
 

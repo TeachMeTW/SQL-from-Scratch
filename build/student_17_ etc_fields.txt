@@ -1,4 +1,0 @@
-fname
-lname
-major
-age

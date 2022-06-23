@@ -3,7 +3,7 @@
 
 ## Name: <ins> Robin Lee Simpson  </ins>
 
-## Video: https://studio.youtube.com/video/dVP_CAIB-IY/edit
+## Video: https://youtu.be/dVP_CAIB-IY
 
 ## Features:
 
